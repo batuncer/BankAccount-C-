@@ -1,0 +1,14 @@
+C:\Users\User\source\repos\APP\APP\bin\Debug\net6.0\APP.exe
+C:\Users\User\source\repos\APP\APP\bin\Debug\net6.0\APP.deps.json
+C:\Users\User\source\repos\APP\APP\bin\Debug\net6.0\APP.runtimeconfig.json
+C:\Users\User\source\repos\APP\APP\bin\Debug\net6.0\APP.dll
+C:\Users\User\source\repos\APP\APP\bin\Debug\net6.0\APP.pdb
+C:\Users\User\source\repos\APP\APP\obj\Debug\net6.0\APP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\APP\APP\obj\Debug\net6.0\APP.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\APP\APP\obj\Debug\net6.0\APP.AssemblyInfo.cs
+C:\Users\User\source\repos\APP\APP\obj\Debug\net6.0\APP.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\APP\APP\obj\Debug\net6.0\APP.dll
+C:\Users\User\source\repos\APP\APP\obj\Debug\net6.0\refint\APP.dll
+C:\Users\User\source\repos\APP\APP\obj\Debug\net6.0\APP.pdb
+C:\Users\User\source\repos\APP\APP\obj\Debug\net6.0\APP.genruntimeconfig.cache
+C:\Users\User\source\repos\APP\APP\obj\Debug\net6.0\ref\APP.dll
